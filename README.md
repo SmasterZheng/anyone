@@ -2,7 +2,7 @@
 个人学习的任何代码（坚持每天都传一点）
 从2019年开始  每天上github写一点点小东西  或者个人的项目
 
-Git global setup
+****Git global setup
 
 
 git config --global user.name "zhengxiaozhang WX591713"
@@ -10,7 +10,7 @@ git config --global user.name "zhengxiaozhang WX591713"
 git config --global user.email "zhengxiaozhang@huawei.com"
 
 
-Create a new repository
+****Create a new repository
 
 
 git clone https://github.com/SmasterZheng/anyone.git
@@ -26,7 +26,7 @@ git commit -m "add README"
 git push -u origin master
 
 
-Existing folder
+****Existing folder
 
 
 cd existing_folder
@@ -42,7 +42,7 @@ git commit
 git push -u origin master
 
 
-Existing Git repository
+****Existing Git repository
 
 
 cd existing_repo
