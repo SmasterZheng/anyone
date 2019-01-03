@@ -4,11 +4,14 @@
 
 Git global setup
 
+
 git config --global user.name "zhengxiaozhang WX591713"
 
 git config --global user.email "zhengxiaozhang@huawei.com"
 
+
 Create a new repository
+
 
 git clone https://github.com/SmasterZheng/anyone.git
 
@@ -22,7 +25,9 @@ git commit -m "add README"
 
 git push -u origin master
 
+
 Existing folder
+
 
 cd existing_folder
 
@@ -36,7 +41,9 @@ git commit
 
 git push -u origin master
 
+
 Existing Git repository
+
 
 cd existing_repo
 
