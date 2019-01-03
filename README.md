@@ -4,5 +4,5 @@
 
 Git global setup
 
-
+git config --global user.name "zhengxiaozhang WX591713"
 
