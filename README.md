@@ -5,9 +5,9 @@
 ****Git global setup
 
 
-git config --global user.name "zhengxiaozhang WX591713"
+git config --global user.name "SmasterZheng"
 
-git config --global user.email "zhengxiaozhang@huawei.com"
+git config --global user.email "xiaozhangzxz@163.com"
 
 
 ****Create a new repository
