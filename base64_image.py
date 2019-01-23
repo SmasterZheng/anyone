@@ -11,7 +11,6 @@ def BaseTest():
 	# base64转码
 	img_64encode=base64.b64encode(imageFile.read())
 	imageFile.close()
-	# print(img_64encode)
 
 	# base64解码
 	img_64decode=base64.b64decode(img_64encode)
