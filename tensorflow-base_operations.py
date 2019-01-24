@@ -29,7 +29,6 @@ def decode_base64(input, name=None):
 
   Input may or may not have padding at the end. See EncodeBase64 for padding.
   Web-safe means that input must use - and _ instead of + and /.
-
 https://blog.csdn.net/wangjian1204/article/details/80834593?utm_source=blogxgwz0
 """
 if __name__ == '__main__':
